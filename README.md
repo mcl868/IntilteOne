@@ -6,6 +6,6 @@ library(devtools)
 install_github('mcl868/UntitleOne')
 ```
 
-\[
+[
 \int
-\]
+]
