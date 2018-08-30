@@ -7,6 +7,7 @@ install_github('mcl868/UntitleOne')
 ```
 
 
-
-\int
+\begin{align*}
+\int...
+\end{align*}
 
