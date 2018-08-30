@@ -7,9 +7,6 @@ install_github('mcl868/UntitleOne')
 ```
 
 
-```markdown
-\[
+
 \int
-\]
-```
 
