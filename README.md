@@ -17,7 +17,4 @@ install_github('mcl868/UntitleOne')
 
 ```
 
-
-M:/PhD/Capture.png
-M:\PhD\Capture.png
-
+![capture](https://user-images.githubusercontent.com/20704019/44955302-edabd400-aea8-11e8-94e6-328cae01908c.PNG)
