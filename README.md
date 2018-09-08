@@ -2,9 +2,12 @@
 
 ```markdown
 install.packages("devtools")
-library(devtools)
-install_github('mcl868/UntitleOne')
+devtools::install_github("mcl868/UntitleOne")
 ```
+
+
+[HelpPackage](https://github.com/mcl868/HelpPackage#helppackage)
+
 
 ```markdown
 2+2
